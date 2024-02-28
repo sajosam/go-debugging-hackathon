@@ -2,7 +2,7 @@ package main
 
 // find average given function parameters 
 // no return statments allowed
-func average(a, b int){
+func average(a, b, c int){
 
 	average := a+b/2
 	

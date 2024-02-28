@@ -9,7 +9,12 @@ write the curresponding lines of code in first.go
 // define variable c
 
 // read three variable inputs from console
+// use fmt.Scan to read 
+// use fmt.Println to write
 
+
+// call add function 
+// print result here
 
 // call average function from second.go
 // without returing a variable get the result here
